@@ -1,0 +1,4 @@
+Traceback:
+my_test -> test_inner -> inner
+Exception:
+TypeError: message_error

@@ -1,0 +1,7 @@
+2024-07-03 17:01:14,288, child process calling self.run()
+2024-07-03 17:01:14,292, child process calling self.run()
+2024-07-03 17:01:14,296, process shutting down
+2024-07-03 17:01:14,296, process shutting down
+2024-07-03 17:01:14,296, process exiting with exitcode 0
+2024-07-03 17:01:14,297, process exiting with exitcode 0
+2024-07-03 17:02:30,051, process shutting down
